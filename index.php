@@ -1,0 +1,5 @@
+<?php
+
+	echo "Primeira versão";
+
+?>
